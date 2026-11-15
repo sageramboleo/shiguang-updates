@@ -1,0 +1,8 @@
+{
+  "version": "4.8.0",
+  "versionCode": 12,
+  "publishedAt": "2026-11-16T06:47:28+08:00",
+  "notes": "· 身材尺寸支持长按拖动排序，可随时增删、一键恢复预设\n· 新增「检查更新」：读取版本清单并展示本次更新日志\n· 修复备份目录弹窗无法上下滑动、无法选择目录\n· 修复 WebDAV 备份上传报 stream was reset\n· 底部 dock 选中态只保留主题色文字，去掉背景方框",
+  "pageUrl": "https://github.com/sageramboleo/shiguang/releases/tag/v4.8.0",
+  "apkUrl": ""
+}
