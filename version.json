@@ -1,11 +1,16 @@
 {
-  "version": "5.2.1",
-  "versionCode": 18,
-  "publishedAt": "2026-11-16T13:54:30+08:00",
-  "notes": "· 网页端「备份 · 恢复」补齐：支持导出与从 zip 恢复\n· 更新日志 / 更新引导背景加深，文字更清晰\n· 后台管理登录框去除提示占位文字",
-  "pageUrl": "https://github.com/sageramboleo/shiguang-updates/releases/tag/v5.2.1",
-  "apkUrl": "https://github.com/sageramboleo/shiguang-updates/releases/download/v5.2.1/Shiguang-v5.2.1-debug.apk",
+  "version": "5.3.0",
+  "versionCode": 19,
+  "publishedAt": "2026-11-16T15:03:30+08:00",
+  "notes": "· 公开仓库精简：只提供 APK，不开源任何代码\n· 「我的」账号卡按模式显示数据保存位置\n· 网页端桌面布局自适应，宽屏自动居中\n· 微信小程序 v1 上线",
+  "pageUrl": "https://github.com/sageramboleo/shiguang-updates/releases/tag/v5.3.0",
+  "apkUrl": "https://github.com/sageramboleo/shiguang-updates/releases/download/v5.3.0/Shiguang-v5.3-debug.apk",
   "history": [
+    {
+      "version": "5.3.0",
+      "date": "2026-11-16",
+      "notes": "公开仓库只保留 APK（不开源）；我的页账号卡与提示按登录模式动态显示存储位置；网页端桌面布局自适应；微信小程序 v1 上线"
+    },
     {
       "version": "5.2.1",
       "date": "2026-11-16",
