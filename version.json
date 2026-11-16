@@ -1,8 +1,8 @@
 {
-  "version": "4.8.0",
-  "versionCode": 12,
-  "publishedAt": "2026-11-16T06:47:28+08:00",
-  "notes": "· 身材尺寸支持长按拖动排序，可随时增删、一键恢复预设\n· 新增「检查更新」：读取版本清单并展示本次更新日志\n· 修复备份目录弹窗无法上下滑动、无法选择目录\n· 修复 WebDAV 备份上传报 stream was reset\n· 底部 dock 选中态只保留主题色文字，去掉背景方框",
-  "pageUrl": "https://github.com/sageramboleo/shiguang/releases/tag/v4.8.0",
+  "version": "4.9.0",
+  "versionCode": 13,
+  "publishedAt": "2026-11-16T08:47:00+08:00",
+  "notes": "· 新增云端模式：连接自己的 NAS / VPS，手机与网页共用同一份数据\n· 首页胶囊可在本地与云端间切换，首次配置服务器并可测试连接\n· 云端与本地能力对等：衣橱、穿搭、床品、物品、厨房、菜谱、尺寸项\n· 设置页新增「云端服务器」，随时查看或修改地址\n· 后端补齐尺寸项字段、食品日志名称、日历套装名等同步细节",
+  "pageUrl": "https://github.com/sageramboleo/shiguang/releases/tag/v4.9.0",
   "apkUrl": ""
 }
