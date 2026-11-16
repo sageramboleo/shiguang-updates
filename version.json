@@ -1,8 +1,8 @@
 {
-  "version": "5.0.0",
-  "versionCode": 14,
-  "publishedAt": "2026-11-16T09:33:35+08:00",
+  "version": "5.0.1",
+  "versionCode": 15,
+  "publishedAt": "2026-11-16T09:44:49+08:00",
   "notes": "· 首次打开先选数据放在哪：本地使用 或 云端账号，之后可随时切换\n· Web 端上线：浏览器打开即可注册，与 APP 同款界面\n· Web 支持两种模式：浏览器本地（数据不出本机，zip 导出 / 导入）或云端账号（自动同源连接，零配置）\n· 设置页新增「使用方式」切换与「从备份文件恢复」，备份 zip 三端通用\n· 本地 / 云端文案按平台说明，注册页写清数据存在哪里\n· 云端登录不再产生一次无意义的 401 请求",
-  "pageUrl": "https://github.com/sageramboleo/shiguang/releases/tag/v5.0.0",
-  "apkUrl": ""
+  "pageUrl": "https://github.com/sageramboleo/shiguang/releases/tag/v5.0.1",
+  "apkUrl": "https://github.com/sageramboleo/shiguang/releases/download/v5.0.1/Shiguang-v5.0.1-debug.apk"
 }
