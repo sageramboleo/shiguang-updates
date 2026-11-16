@@ -1,8 +1,40 @@
 {
-  "version": "5.1.0",
-  "versionCode": 16,
-  "publishedAt": "2026-11-16T12:07:23+08:00",
-  "notes": "· 模式弹窗云端说明改为：连接云端服务器，多设备实时同步\n· 新增更新引导：每次更新后首次启动展示日志，5 秒自动关闭，可跳过\n· 「关于」区合并重设计：作者在上，更新模块在下（设置页）\n· Web 端移除 WebDAV 入口，备份统一用 zip 导出导入\n· Web 端天气修复：IP 定位不再显示可能错误的城市名，点击天气行可重新精确定位",
-  "pageUrl": "https://github.com/sageramboleo/shiguang/releases/tag/v5.1.0",
-  "apkUrl": "https://github.com/sageramboleo/shiguang/releases/download/v5.1.0/Shiguang-v5.1-debug.apk"
+  "version": "5.2.0",
+  "versionCode": 17,
+  "publishedAt": "2026-11-16T12:51:51+08:00",
+  "notes": "· 「关于」移到「我的」页，主题与设置下方\n· 更新日志可随时查看，不再只在新版本时出现\n· 开屏更新引导稳定展示本次更新内容\n· 启动页停留时间缩短，不再卡在第一屏\n· 公开发布仓库上线：APK 匿名可下载",
+  "pageUrl": "https://github.com/sageramboleo/shiguang-updates/releases/tag/v5.2.0",
+  "apkUrl": "https://github.com/sageramboleo/shiguang-updates/releases/download/v5.2.0/Shiguang-v5.2-debug.apk",
+  "history": [
+    {
+      "version": "5.2.0",
+      "date": "2026-11-16",
+      "notes": "「关于」移到「我的」页，主题与设置下方；更新日志可随时查看；开屏更新引导稳定展示本次更新内容；启动页停留时间缩短；公开发布仓库上线，APK 匿名可下载"
+    },
+    {
+      "version": "5.1.0",
+      "date": "2026-11-16",
+      "notes": "云端说明改为：连接云端服务器，多设备实时同步；新增更新引导，更新后首启展示日志、5 秒自动关闭；「关于」合并进设置页；Web 端移除 WebDAV 入口；Web 端天气城市显示修复"
+    },
+    {
+      "version": "5.0.1",
+      "date": "2026-11-16",
+      "notes": "修正 APK 内地址被误当云端服务器的问题；欢迎页 / 登录页 / 设置页的服务器显示按平台区分"
+    },
+    {
+      "version": "5.0.0",
+      "date": "2026-11-16",
+      "notes": "首次启动可选「本地使用」或「云端账号」；网页端上线，浏览器打开即可注册使用；设置页新增使用方式切换与备份文件恢复"
+    },
+    {
+      "version": "4.9.0",
+      "date": "2026-11-15",
+      "notes": "云端模式接入自建服务器，多设备实时同步；Web 管理后台上线"
+    },
+    {
+      "version": "4.8.0",
+      "date": "2026-11-15",
+      "notes": "身材尺寸支持长按拖动排序、增删与预设复位；关于页新增检查更新"
+    }
+  ]
 }
