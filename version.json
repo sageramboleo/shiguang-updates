@@ -1,11 +1,16 @@
 {
-  "version": "5.2.0",
-  "versionCode": 17,
-  "publishedAt": "2026-11-16T12:51:51+08:00",
-  "notes": "· 「关于」移到「我的」页，主题与设置下方\n· 更新日志可随时查看，不再只在新版本时出现\n· 开屏更新引导稳定展示本次更新内容\n· 启动页停留时间缩短，不再卡在第一屏\n· 公开发布仓库上线：APK 匿名可下载",
-  "pageUrl": "https://github.com/sageramboleo/shiguang-updates/releases/tag/v5.2.0",
-  "apkUrl": "https://github.com/sageramboleo/shiguang-updates/releases/download/v5.2.0/Shiguang-v5.2-debug.apk",
+  "version": "5.2.1",
+  "versionCode": 18,
+  "publishedAt": "2026-11-16T13:54:30+08:00",
+  "notes": "· 网页端「备份 · 恢复」补齐：支持导出与从 zip 恢复\n· 更新日志 / 更新引导背景加深，文字更清晰\n· 后台管理登录框去除提示占位文字",
+  "pageUrl": "https://github.com/sageramboleo/shiguang-updates/releases/tag/v5.2.1",
+  "apkUrl": "https://github.com/sageramboleo/shiguang-updates/releases/download/v5.2.1/Shiguang-v5.2.1-debug.apk",
   "history": [
+    {
+      "version": "5.2.1",
+      "date": "2026-11-16",
+      "notes": "网页端备份卡补齐恢复功能（导出/导入 zip 与 APP 一致）；更新日志与更新引导背景加深、文字更清晰；后台管理登录框去除占位提示文字"
+    },
     {
       "version": "5.2.0",
       "date": "2026-11-16",
